@@ -1,0 +1,6 @@
+banana 1
+chocolate 1
+açucar 1 kg
+garrafas 50
+malte 25 kg
+agua 10 L
